@@ -21,6 +21,7 @@ Draft v0.0.1
 5. REST + GraphQL
 6. React + Node + Bundle
 7. Databases' types
+8. Git (yes, it's important)
 
 #### 2. Middle (2 weeks)
 1. Golang (Go by example, Web frameworks)
