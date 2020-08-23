@@ -41,5 +41,6 @@ Draft v0.0.1
 7. Microfrontends
 8. Distributed systems
 
-* Python and JavaScript are both two necessary languages to know the basis of modern software development, each one have its own orientation, Python follows software composition and simplicity oriented development, and JavaScript is an ancestor of a lot of web and cloud modern technologies. BTW You can choose one or both, is your decision.
+\* Python and JavaScript are both two necessary languages to know the basis of modern software development, each one have its own orientation, Python follows software composition and simplicity oriented development, and JavaScript is an ancestor of a lot of web and cloud modern technologies. BTW You can choose one or both, is your decision.
+
 ** QUIC is a relative new transport layer network protocol. And HTTP/3 is HTTP over QUIC. Probably you want to search about the [advantage](ionos.com/digitalguide/hosting/technical-matters/quic-the-internet-transport-protocol-based-on-udp/#:~:text=guide%20will%20illustrate%3A-,Faster%20Connections,the%20UDP-based%20Google%20solution.) or [implementations](https://quicwg.org).
