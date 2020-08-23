@@ -16,11 +16,11 @@ Draft v0.0.1
 #### 1. Start (2 weeks)
 1. Computability Introduction
 2. CLI Tools + Python* + JavaScript*
-3. Higher & Lower level in software,Git (yes, it's important)
+3. Higher & Lower level in software + Git (yes, it's important)
 4. HTTP/S + WebSockets + QUIC**
 5. REST + GraphQL
 6. React + Node + Bundle
-7. Database's types
+7. Intro to Database's
 
 #### 2. Middle (2 weeks)
 1. Golang (Go by example, Web frameworks)
