@@ -24,7 +24,7 @@ TODO
 
 
 
-## One snippet is worth the hundred of words
+## One snippet is worth hundred of words
 
 ```python
 # TODO code
