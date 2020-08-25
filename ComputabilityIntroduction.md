@@ -17,6 +17,7 @@ TODO
 TODO
 
 
+## 3. How now which algorithm is better? (Big O notation)
 
 ### Resources
 
