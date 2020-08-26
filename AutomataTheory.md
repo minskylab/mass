@@ -1,18 +1,4 @@
-# Computability
-
-This section of our Learning Path is only a gentle and brief introduction to awesome topics: **Computability** and **Automata Theory**. Each one are very deep and transversal sciences but in this document we only define some concepts and refer util resources if you are more interested. The main goal is that you can make relations between this theoretical concepts and the modern software development.
-
-## 1. What's computation and what's computable ?
-
-TODO
-
-### Resources
-
-* Link1
-
-
-
-## 2. What's an automata?
+### What's an automaton?
 
 It's an abstraction of machines with the computation capability, an automaton is a generalization of   state machines. We have 4 classes of automatons:
 
@@ -20,18 +6,4 @@ It's an abstraction of machines with the computation capability, an automaton is
 2. **Finite-State Machine:** the FSM can change from one state to another in response to some inputs; the change from one state to another is called a transition [[ref]](https://books.google.com.pe/books/about/Formal_Methods_in_Computer_Science.html?id=1VIiwQEACAAJ&redir_esc=y).
 3. **Pushdown Automaton:** the power of the context. This automaton can use the top of the stack to decide which transition to take and it can manipulate the stack as part of performing a transition.
 4. **Turing Machine:** is a mathematical model of computation that defines an abstract machine, which manipulates symbols on a strip of tape according to a table of rules.
-
-### Resources
-
-* [Turing about computability](https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf)
-* 
-
-
-
-## One snippet is worth hundred of words
-
-```python
-# TODO code
-print("hello world")
-```
 
