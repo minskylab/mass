@@ -24,7 +24,8 @@ It's an abstraction of machines with the computation capability, an automaton is
 ### Resources
 
 * [Turing about computability](https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf)
-* 
+
+  
 
 
 
