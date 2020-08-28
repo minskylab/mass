@@ -2,6 +2,8 @@
 
 <img src="python.png" width="500"/>
 
+Xkcd
+
 
 
 Python is a multipurpose language with a deep focus in simplicity. That is.
